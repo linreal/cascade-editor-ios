@@ -16,7 +16,7 @@ In Xcode, choose **File → Add Package Dependencies…** and enter:
 https://github.com/linreal/cascade-editor-ios
 ```
 
-Select **Up to Next Major Version** from `1.9.2`, then add the
+Select **Up to Next Major Version** from `1.9.3`, then add the
 `CascadeEditor` product to your app target.
 
 ## Start
@@ -36,7 +36,7 @@ The package contains a signed-by-your-app dynamic XCFramework with its Compose
 resources, privacy manifest, and dSYMs. No resource-copy build phase is required.
 
 For the complete API guide and SwiftUI/UIKit examples, see the
-[native iOS SDK documentation](https://github.com/linreal/cascade-editor/blob/v1.9.2/docs/iOsNativeSdk.md).
+[native iOS SDK documentation](https://github.com/linreal/cascade-editor/blob/v1.9.3/docs/iOsNativeSdk.md).
 
 ## License
 

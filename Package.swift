@@ -15,8 +15,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "CascadeEditor",
-            url: "https://github.com/linreal/cascade-editor/releases/download/v1.9.2/CascadeEditor.xcframework.zip",
-            checksum: "64407deb059424444b671656722e9c4d1305763665a3941cc2b5acf3aa3cd776"
+            url: "https://github.com/linreal/cascade-editor/releases/download/v1.9.3/CascadeEditor.xcframework.zip",
+            checksum: "7612b3804aa312600b2d05210c8ae705a8308eb0139c61f3abc1c99389022684"
         ),
     ]
 )
